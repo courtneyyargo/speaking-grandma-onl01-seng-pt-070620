@@ -13,5 +13,4 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 speak_to_grandma == HUH?! SPEAK UP, SONNY!
-if speak_to_grandma(phrase = HUH?! SPEAK UP, SONNY!)
-  puts 
+if speak_to_grandma == 
