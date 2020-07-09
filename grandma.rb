@@ -14,5 +14,7 @@
 
 speak_to_grandma == "HUH?! SPEAK UP, SONNY!"
 
-  if speak_to_grandma == "Hi Grandma"
-  elsif
+if speak_to_grandma == "Hi Grandma"
+  puts "HUH?! SPEAK UP, SONNY!"
+  
+elseif 
